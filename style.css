@@ -1,0 +1,12 @@
+body{margin:0;background:#f4efe4;color:#1b1b1b;font-family:Georgia,'Times New Roman',serif}
+.wrap{max-width:980px;margin:0 auto;padding:24px}
+header{text-align:center;border-bottom:4px double #1b1b1b;padding-bottom:10px}
+header h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(34px,7vw,64px);margin:0;letter-spacing:1px}
+.dateline{display:flex;flex-wrap:wrap;justify-content:space-between;border-top:1px solid #1b1b1b;border-bottom:1px solid #1b1b1b;margin-top:8px;padding:4px 0;font-size:13px;text-transform:uppercase;letter-spacing:1px}
+nav a{color:#1b1b1b;margin:0 8px}
+h2{font-size:30px;line-height:1.15;margin:18px 0 8px}h3{border-bottom:1px solid #1b1b1b;text-transform:uppercase;letter-spacing:1px;font-size:15px;margin-top:28px}
+.cols{column-width:280px;column-gap:28px;column-rule:1px solid #bbb}.cols article{break-inside:avoid;margin-bottom:16px}
+article h4{margin:0 0 4px;font-size:18px}.box{border:2px solid #1b1b1b;padding:10px 14px;margin:14px 0;background:#fffaf0}
+table{border-collapse:collapse;width:100%;font-size:15px}th,td{padding:5px 8px;border-bottom:1px solid #ccc;text-align:right}th:first-child,td:first-child,td:nth-child(2),th:nth-child(2){text-align:left}
+.small{font-size:13px;color:#555}footer{margin-top:40px;border-top:4px double #1b1b1b;padding-top:8px;font-size:13px;text-align:center}
+ul.archive li{margin:6px 0}
